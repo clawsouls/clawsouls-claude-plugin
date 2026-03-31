@@ -30,10 +30,10 @@ git clone https://github.com/clawsouls/clawsouls-claude-code-plugin.git
 claude --plugin-dir ./clawsouls-claude-code-plugin
 ```
 
-### Verify Installation
+### After Installation
 ```bash
-# Should show clawsouls in the list
-/plugin list
+# Reload plugins (required after first install)
+/reload-plugins
 
 # Try a command
 /clawsouls:browse
