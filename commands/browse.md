@@ -1,10 +1,10 @@
 ---
-description: Browse and install agent personas from SoulHub marketplace
+description: Browse and install agent personas from ClawSouls marketplace
 ---
 
-# Browse SoulHub Personas
+# Browse ClawSouls Personas
 
-Search and browse agent personas on SoulHub (the Soul Spec marketplace).
+Search and browse agent personas on ClawSouls (the Soul Spec marketplace).
 
 Use the `soul_search` MCP tool to find personas matching "$ARGUMENTS".
 

@@ -11,10 +11,10 @@ You have access to the ClawSouls MCP server for Soul Spec operations.
 - User asks about agent persona, personality, or identity
 - User mentions SOUL.md, IDENTITY.md, STYLE.md, or AGENTS.md
 - User wants to create, modify, or switch agent personas
-- User references Soul Spec, SoulHub, or ClawSouls
+- User references Soul Spec, ClawSouls, or ClawSouls
 
 ## Available MCP tools
-- `soul_search` — Search SoulHub for personas
+- `soul_search` — Search ClawSouls for personas
 - `soul_get` — Get persona details
 - `soul_install` — Install a persona locally
 - `soul_scan` — Verify persona safety

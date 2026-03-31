@@ -1,5 +1,5 @@
 ---
-description: Install and apply an agent persona from SoulHub to this project
+description: Install and apply an agent persona from ClawSouls to this project
 ---
 
 # Install Agent Persona

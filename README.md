@@ -8,7 +8,7 @@ AI agent persona management, safety verification, memory sync, and identity roll
 
 | Feature | Command | Description |
 |---------|---------|-------------|
-| 🎭 **Browse Personas** | `/clawsouls:browse` | Search and install personas from SoulHub |
+| 🎭 **Browse Personas** | `/clawsouls:browse` | Search and install personas from ClawSouls |
 | 📥 **Install Persona** | `/clawsouls:install` | Apply a persona to your project |
 | 🔍 **SoulScan** | `/clawsouls:scan` | Verify persona safety (53 patterns) |
 | ⏪ **Soul Rollback** | `/clawsouls:rollback` | Detect drift & restore identity |
@@ -154,7 +154,6 @@ Write once, deploy everywhere. That's the power of an open standard.
 ## Links
 
 - [ClawSouls Platform](https://clawsouls.ai)
-- [SoulHub Marketplace](https://clawsouls.ai/marketplace)
 - [Soul Spec Standard](https://soulspec.org)
 - [Documentation](https://docs.clawsouls.ai)
 - [SoulScan CLI](https://www.npmjs.com/package/clawsouls)
