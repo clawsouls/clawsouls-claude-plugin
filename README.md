@@ -16,20 +16,33 @@ AI agent persona management, safety verification, memory sync, and identity roll
 
 ## Installation
 
-### From Official Marketplace
-```bash
-/plugin install clawsouls@claude-plugins-official
-```
-
-### From GitHub
+### Option 1: GitHub Marketplace (Recommended)
 ```bash
 /plugin marketplace add clawsouls/clawsouls-claude-plugin
 /plugin install clawsouls
 ```
 
-### Local Development
+That's it. Two commands and you're ready.
+
+### Option 2: Official Anthropic Marketplace
 ```bash
+/plugin install clawsouls@claude-plugins-official
+```
+Or browse in `/plugin` → Discover → search "clawsouls"
+
+### Option 3: Local Development
+```bash
+git clone https://github.com/clawsouls/clawsouls-claude-plugin.git
 claude --plugin-dir ./clawsouls-claude-plugin
+```
+
+### Verify Installation
+```bash
+# Should show clawsouls in the list
+/plugin list
+
+# Try a command
+/clawsouls:browse
 ```
 
 ## Quick Start
